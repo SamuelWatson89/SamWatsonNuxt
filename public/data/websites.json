@@ -1,4 +1,10 @@
 [
+    {
+    "name": "Sam Watson",
+    "url": "https://samwatson.tech",
+    "repo": "https://github.com/SamuelWatson89/SamWatsonNuxt",
+    "description": "Personal website, built on NUXT"
+  },
   {
     "name": "Ghostrunner 2",
     "url": "https://ghostrunnergame.com/",
