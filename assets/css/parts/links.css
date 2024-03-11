@@ -1,0 +1,30 @@
+.button {
+  background: var(--main-orange);
+  text-decoration: none;
+  padding: 6px 12px;
+  color: white;
+  transition: border 0.2s ease;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.button:hover,
+.button-dark:hover {
+  border-color: var(--main-orange-alpha)
+}
+
+.button-dark {
+  background: var(--main-bg);
+  border: 1px solid #383838;
+}
+
+.text-link {
+  color: var(--main-orange);
+  text-decoration: none;
+}
+
+.text-link:hover {
+  filter: brightness(80%);
+}

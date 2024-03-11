@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Ghostrunner 2",
+    "url": "https://ghostrunnergame.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+  {
+    "name": "Miasma Chronicles",
+    "url": "https://miasmachronicles.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+  {
+    "name": "Brothers",
+    "url": "https://brothersthegame.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+  {
+    "name": "Crime Boss: Rockay City",
+    "url": "https://visitrockaycity.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+
+  {
+    "name": "Puzzle Quest 3",
+    "url": "https://puzzlequest3.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+
+  {
+    "name": "Stray Blade",
+    "url": "https://stray-blade.com/",
+    "repo": "",
+    "description": "Brochure website, built on WordPress"
+  },
+
+  {
+    "name": "Bakers Direct",
+    "url": "https://bakersdirect.co.uk/",
+    "repo": "",
+    "description": "Trade user e-commerce platform built on WordPress"
+  },
+
+  {
+    "name": "MK Signs",
+    "url": "https://mksigns.co.uk/",
+    "repo": "",
+    "description": "E-commerce style website, built on WordPress. "
+  },
+
+  {
+    "name": "Bedford Signs and Print",
+    "url": "https://bedfordsignsandprint.co.uk/",
+    "repo": "",
+    "description": "E-commerce style website, built with Angular and Symfony"
+  },
+
+  {
+    "name": "Kent Signs and Print",
+    "url": "https://kentprintandsigns.co.uk/",
+    "repo": "",
+    "description": "E-commerce style website, built with Angular and Symfony"
+  },
+
+  {
+    "name": "Consultus Care",
+    "url": "https://www.consultuscare.com/",
+    "repo": "",
+    "description": "Informational website, built with WordPress"
+  },
+
+  {
+    "name": "Inskip & Davie",
+    "url": "https://inskipanddavie.co.uk/",
+    "repo": "",
+    "description": "Real Estate listings website, built on WordPress and Property Hive"
+  },
+
+  {
+    "name": "MDH Executive Chauffeurs",
+    "url": "https://mdh-executivechauffeurs.co.uk/",
+    "repo": "",
+    "description": "Chauffer services, built on WordPress, connecting to external booking software"
+  },
+
+  {
+    "name": "Prestige Windsor",
+    "url": "https://prestigewindsor.co.uk/",
+    "repo": "",
+    "description": "Brochure website, built with WordPress"
+  }
+]

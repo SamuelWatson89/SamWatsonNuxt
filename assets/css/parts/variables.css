@@ -1,0 +1,11 @@
+:root {
+  --main-orange: hsl(14, 100%, 57%);
+  --main-orange-alpha: hsla(14, 100%, 56%, 0.70);
+  --main-bg: hsl(198, 21%, 12%);
+  --main-bg-darker: hsl(197, 23%, 6%);
+  --main-bg-lighter: hsl(201, 19%, 15%);
+  --main-white: hsl(0, 0%, 100%);
+  --main-black: hsl(0, 0%, 10%);
+  --site-width: 1200px;
+  --bg-blend: linear-gradient(0deg, hsl(198, 21%, 12%) 30%, hsla(0, 0%, 100%, 0) 100%);
+}

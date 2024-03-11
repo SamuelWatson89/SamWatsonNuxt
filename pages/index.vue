@@ -1,0 +1,4 @@
+<template>
+  <AppContent />
+  <AppProjects />
+</template>

@@ -1,0 +1,23 @@
+.container {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 0 5px;
+  margin-bottom: 50px;
+}
+
+.block {
+  display: flex;
+  gap: 40px;
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    padding: 0 1.25rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .block {
+    flex-direction: column-reverse;
+  }
+}

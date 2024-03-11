@@ -1,0 +1,18 @@
+.main-nav {}
+
+.nav-link {
+  background: var(--main-bg-darker);
+  text-decoration: none;
+  padding: 6px 12px;
+  color: white;
+  transition: border 0.2s ease;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  display: inline-block;
+  border-radius: 3px;
+  border: 1px solid var(--main-bg-lighter);
+}
+
+.nav-link:hover {
+  border: 1px solid var(--main-orange);
+}

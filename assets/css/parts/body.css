@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  background-color: var(--main-bg);
+}
+
+.center-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  margin-top: 0px;
+  -webkit-transition: margin-top 0.2s ease-out;
+  -moz-transition: margin-top 0.2s ease-out;
+  -o-transition: margin-top 0.2s ease-out;
+  transition: margin-top 0.2s ease-out;
+  color: var(--main-orange);
+}
+
+.icon:hover {
+  margin-top: -5px;
+}
+
+.social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
